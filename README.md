@@ -1,57 +1,29 @@
-![cover](https://github.com/tareeb/tareeb/assets/67794123/e8a6d138-3908-426d-b38e-cf89229de3a2)
+# Hello :) I'm Mubashir Hussain Shah 👋
 
-### Greetings, fellow voyager amid the digital algorithms and data streams! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZoZmc5bWpyaWhyMnhxaGV0MDl2ZXU4dDd3dmZyeTBobWN5ZG1wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zJ3V6Ot51H8Y0/giphy.gif" width=50>
+## 🤔 Research Interests...
+- Multimodal Learning: Vision-Language Models (VLMs), Long-video reasoning
+- Neural Compression: **Image Compression**, Learned neural codecs
+- AI Systems: Semantic search, Document intelligence, Assistive Intelligence
 
-<details> 
-<summary>
-  Penning my thoughts into words, I invite you to immerse yourself in the world I've woven..
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE5ajFvbDl4aGFpdHp6bHFyMGllYjR6djh2bDdxYTVsM2o5cGlmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PPui3rxvpTPFrqKc10/giphy.gif" width=30>
-</summary>
+---
 
-### 💫 About Me:
-Hey there, digital universe explorer! I'm Mubashir, a Software Engineer journeying through the dynamic and expansive world of computer science. Currently pursuing my bachelor's degree, I'm fascinated by the intricate interplay of Computer Vision and Machine Learning, with a strong command over Python and Java.<br><br>Besides deciphering complex code, I often find solace in the embrace of nature, capturing its essence through the lens of my camera. Photography allows me to freeze fleeting moments and express the beauty I perceive. I also enjoy immersing myself in literature and occasionally exploring anime realms to unwind.<br><br>Driven by an unending thirst for knowledge, I embrace each opportunity to explore new frontiers, fostering an ever-evolving journey of self-discovery and growth.
+## 📋 Worked on...
 
-#### ⚡ Current Focus: 
-My current focus revolves around Software Engineering and Development. With expertise in Python, Java, C++, and Machine Learning, I am actively engaged in diverse projects including Computer Vision, Machine Learning, and Web Development. Leveraging my skills, I am creating engaging digital experiences and working on projects that combine artistry with functionality.
+### 🎓 M.S. in Medical AI @ Kyung Hee University — VCP Lab (2025.03 ~ Present)  
+Researching next-generation **neural image compression** and multimodal architectures  
+🔗 https://sites.google.com/view/aikiho/members?authuser=0#h.sa360iifn5i1
 
+###  AI Fellow @ PI School of AI, Rome, Italy (Remote) — Daikin Industry Project (2025.06 ~ 2025.08)
+Selected as a fully-funded AI Fellow working on an NLP-based industrial project for Daikin, Italy  
+• Built a system to process 100+ page technical documents using semantic search & vector databases  
+• Contributed to **Trallie**, an NGI-Search funded open-source project redefining unstructured document retrieval using LLMs  
+🔗 https://github.com/PiSchool/trallie
 
-#### 😄 Next Goal: 
-As I navigate this dynamic journey, my sights are locked onto mastering **Computer Vision and Image Processing**. This pursuit emerges from my desire to further enhance my development skills, giving rise to even more refined and efficient digital solutions.
-<br>Feel free to connect, share ideas, and collaborate. Together, let's course through the ever-evolving world of technology!
-<br>
-<br>
-</details>
-<br>
+### 🎓 B.E. in Software Engineering @ NUST (2020.03 ~ 2024.08)
 
-### 📜 In Short:
-Crafting digital experiences as a **Software engineer**, focused on **Java and Computer Vision**
-.
+---
 
-<br>
-
-## 💻 Tech Stack:
-### Promgramming Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css)](https://skillicons.dev)
-
-### Technologies:
-- Machine Learning
-- Computer Vision
-- Image Processing
-  
-### Desktop Development:
-- Java (Swing, JavaFX, Spring)
-  
-#### FrontEnd:
-- JavaScript
-- TypeScript
-- React 
-- HTML,CSS
-
-#### Backend:
-- Python
-- Django
-
-  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubashirhussainshah) 
+## 📫 How to reach me...
+- [LinkedIn](https://linkedin.com/in/mubashirhussainshah)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=M2lMNpkAAAAJ&view_op=list_works&sortby=title)
+- 📩 Email: **shahmubashirhussain@khu.ac.kr**

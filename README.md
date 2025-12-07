@@ -7,8 +7,7 @@
 
 📋 **Worked on...**  
 -  M.S. in Medical AI @ Kyung Hee University — VCP Lab (2025.03 ~ Present)  
--  AI Fellow @ PI School of AI, Rome, Italy — Daikin Industry Project (2025.06 ~ 2025.08)  
--  Open-source Contributor @ Trallie (NGI Search Project)  
+-  AI Fellow @ PI School of AI, Rome, Italy — Daikin Industry Project (2025.06 ~ 2025.08)   
 -  B.E. in Software Engineering @ NUST (2020.03 ~ 2024.08)  
 
 📫 **How to reach me...**  

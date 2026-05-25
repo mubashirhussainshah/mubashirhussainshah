@@ -5,11 +5,6 @@
 - Neural Compression: Image compression, Learned neural codecs  
 - AI Systems: Semantic search, Document intelligence, Assistive Intelligence  
 
-📋 **Worked on...**  
--  M.S. in Medical AI @ Kyung Hee University — VCP Lab (2025.03 ~ Present)  
--  AI Fellow @ PI School of AI, Rome, Italy — Daikin Industry Project (2025.06 ~ 2025.08)   
--  B.E. in Software Engineering @ NUST (2020.03 ~ 2024.08)  
-
 📫 **How to reach me...**  
 - Send a message via  
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubashirhussainshah)](https://www.linkedin.com/in/mubashirhussainshah/)  

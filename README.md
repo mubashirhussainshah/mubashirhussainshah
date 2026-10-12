@@ -6,8 +6,6 @@
 - AI Systems: Semantic search, Document intelligence, Assistive Intelligence  
 
 📫 **How to reach me...**  
-- Send a message via  
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubashirhussainshah)](https://www.linkedin.com/in/mubashirhussainshah/)  
 - View my research on  
   [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=M2lMNpkAAAAJ)](https://scholar.google.com/citations?user=M2lMNpkAAAAJ)  
 - Send an email to  
